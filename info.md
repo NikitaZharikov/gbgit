@@ -52,4 +52,4 @@
 Чтобы отправить локальную версию на внешнюю  
 >**git push**
 
-![git_logo](/image_logo_git.png)
+![git_logo](/gbgit/image_logo_git.png)
